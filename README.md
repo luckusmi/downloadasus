@@ -7,7 +7,7 @@
 > QFIL / Fastboot / Update - Found
 > 
 > # Android 8 / QFIL / Fastboot
-> 126 QFIL
+> 126 / QFIL
 >
 > 128 / QFIL / Fastboot
 >
