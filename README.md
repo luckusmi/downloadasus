@@ -1,13 +1,16 @@
-> Android 8 - 10
+> Что
+
+
+> # Android 8 - 10
 > ? - No found
 > QFIL / Fastboot / Update - Found
 > 
-> Android 8 / QFIL / Fastboot
+> # Android 8 / QFIL / Fastboot
 > 126 QFIL
 > 128 / QFIL / Fastboot
 > 159 / Fastboot
 > 
-> Android 9 / QFIL / Fastboot / UP
+> # Android 9 / QFIL / Fastboot / UP
 > 78 / Update
 > 71 / ? / Fastboot
 > 68 / ?
@@ -16,7 +19,7 @@
 > 55 / Update TWRP
 > 44 / Fastboot 
 > 
-> Android 10 / Update
+> # Android 10 / Update
 > 29 / ?
 > 31 / Update TWRP
 
