@@ -1,4 +1,3 @@
-> Что РАССИЯ РАССИЯ
 
 
 > # Android 8 - 10
@@ -53,5 +52,21 @@
 
 
 # Android 10
+# Прошивки которые найдены
 
-hello
+> Android 8
+Android 8 126 QFIL
+Android 8 128 / QFIL / Fastboot
+Android 8 159 Fastboot
+
+> Android 9
+Android 9 78 Update
+Android 9 71 Fastboot
+68 / ?
+62 / ? (Downgrade)
+60 / ?
+Android 9 55 Update TWRP
+Android 9 44 Fastboot 
+
+> Android 10
+Android 10 31 Update TWRP 
